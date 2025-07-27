@@ -1,0 +1,1 @@
+#aqui vai ficar onde gera a verificao de dano e vida e infos da pasta dados da ficha e retorna ou importado ao commands
