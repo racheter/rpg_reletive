@@ -1,10 +1,23 @@
 {
     "racheter": {
-        "racheter": {
-            "classe": "arqueiro",
-            "level": 0,
-            "xp": 0,
-            "fase": 1
-        }
+        "classe": "arqueiro",
+        "level": 0,
+        "xp": 0,
+        "vida": 100,
+        "fase": 1
+    },
+    "marcelo": {
+        "classe": "emo",
+        "level": 0,
+        "xp": 0,
+        "vida": 100,
+        "fase": 1
+    },
+    "bartolomeu": {
+        "classe": "lolzeiro",
+        "level": 0,
+        "xp": 0,
+        "vida": 100,
+        "fase": 1
     }
 }
